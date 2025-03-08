@@ -1,0 +1,27 @@
+
+@media screen and (max-width: 768px) {
+  .loginBox {
+    flex-direction: column;
+    width: 90%;
+    height: auto;
+  }
+
+  .imageContainer {
+    width: 100%;
+    height: 200px;
+  }
+
+  .formContainer {
+    width: 100%;
+    padding: 1.5rem;
+  }
+
+  .formContainer form {
+    width: 100%;
+  }
+
+  .alredy-acc{
+    color: white;
+    font-size: 5rem;
+  }
+}

@@ -24,7 +24,7 @@ const Login = () => {
       className={`h-screen w-full flex justify-center items-center bg-slate-900`}
     >
       <div
-        className={`hidden md:flex w-3/5 h-3/5 bg-slate-800 rounded-md text-white overflow-hidden`}
+        className={`hidden md:flex w-3/5 h-3/5 shadow-[0px_0px_17px_1px_#3f4c7b] bg-slate-800 rounded-md text-white overflow-hidden`}
       >
         {/* Left Side - Form */}
         <div className="w-1/2 p-12 flex flex-col justify-center">

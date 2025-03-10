@@ -89,7 +89,7 @@ const Signup = () => {
         </div>
       </div>
 
-      {/* Mobile View */}
+
       <div className={`md:hidden ${styles.loginBox} text-white`}>
         <div className={styles.imageContainer}>
           <img src="../../public/side1.png" alt="Signup Illustration" />

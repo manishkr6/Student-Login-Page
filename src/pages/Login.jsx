@@ -26,7 +26,7 @@ const Login = () => {
       <div
         className={`hidden md:flex w-3/5 h-3/5 shadow-[0px_0px_17px_1px_#3f4c7b] bg-slate-800 rounded-md text-white overflow-hidden`}
       >
-        {/* Left Side - Form */}
+
         <div className="w-1/2 p-12 flex flex-col justify-center">
           <h2 className="text-2xl font-bold text-center mb-6 text-gray-400">
             Student Login
@@ -83,7 +83,7 @@ const Login = () => {
         </div>
       </div>
 
-{/*/--------------------------- Mobile View --------------------------- */}
+
 
       <div className={`md:hidden ${styles.loginBox} text-white`}>
         <div className={styles.imageContainer}>
